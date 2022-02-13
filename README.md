@@ -7,11 +7,11 @@ It's weird that there's not already a tutorial for this, so I'm making this one.
 
 ## Preface: Why?
 
-Minecraft uses a **J**ava **V**irtual **M**achine (JVM) to run it's source code on your computer.
+Minecraft uses a **J**ava **V**irtual **M**achine (JVM) to run its source code on your computer.
 
 By default, Minecraft comes packaged with the *OpenJDK* JVM, which is the most commonly used JVM, and has been tested to work with Minecraft.
 
-GraalVM is a relatively new JVM which focuses on *performance*, where OpenJDK JVM falls behind. With all of it's new optimizations turned on, it performs [considerably better than all currently available JVMs, according to Fine Constant's testing.](https://www.fineconstant.com/posts/comparing-jvm-performance/)
+GraalVM is a relatively new JVM which focuses on *performance*, where OpenJDK JVM falls behind. With all of its new optimizations turned on, it performs [considerably better than all currently available JVMs, according to Fine Constant's testing.](https://www.fineconstant.com/posts/comparing-jvm-performance/)
 
 So, if you would like to try it out, here's how:
 
@@ -53,7 +53,7 @@ Now that we know we need to download `graalvm-ce-java17-windows-amd64-22.0.0.2.z
 
 ![Download prompt](img/download.png)
 
-This fairly large zip file (335MB!) contains the entire JVM needed to run Minecraft, with all of it's supporting libraries and executables- in other words, when we extract this zip file, wherever we put the extracted files will be what we need to tell Minecraft to use. 
+This fairly large zip file (335MB!) contains the entire JVM needed to run Minecraft, with all of its supporting libraries and executables- in other words, when we extract this zip file, wherever we put the extracted files will be what we need to tell Minecraft to use. 
 
 Personally, I'm going to make a new directory called `JVM` in my `C:` drive (`C:\JVM`), and download the zip to there.
 
