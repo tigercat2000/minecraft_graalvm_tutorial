@@ -20,7 +20,7 @@ So, if you would like to try it out, here's how:
 | Minecraft Version | Java Version | GraalVM Version |
 |-|-|-|
 |21w19a - 1.18.0 and newer|Java 17 or newer|[GraalVM 22.0.0.2](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.0.0.2)
-|1.6 or older|Java 8|[GraalVM 21.3.1](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-21.3.1)
+|21w18a - 1.16.5 and older|Java 8|[GraalVM 21.3.1](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-21.3.1)
 
 ## Step 2: Find the right GraalVM archive for you!
 
