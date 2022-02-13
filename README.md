@@ -1,5 +1,5 @@
-![https://www.graalvm.org/](https://www.graalvm.org/resources/img/home/logo_showcase.svg)
-![https://www.minecraft.net](https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/header/logo.png)
+![https://www.graalvm.org/](img/graalvm_logo.svg)
+![https://www.minecraft.net](img/minecraft_logo.svg)
 
 # A tutorial for using GraalVM with Minecraft: Java Edition
 
